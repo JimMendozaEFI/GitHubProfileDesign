@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Web Developer | Gamer | Heavy Sleeper
 </p>
 
 <div align="center">
